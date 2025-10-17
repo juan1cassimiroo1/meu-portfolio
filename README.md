@@ -10,8 +10,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, com interesse em dese
 Tenho boas habilidades de colaboração e comunicação, e busco sempre evoluir em projetos práticos.
 
 📫 **Contato:**
-- E-mail: seuemail@exemplo.com
-- LinkedIn: [Meu Perfil](https://www.linkedin.com/in/SEU_USUARIO/)
+- E-mail: juan.cassimiro67@gmail.com
+- LinkedIn: [Juan Cassimiro]([https://www.linkedin.com/in/SEU_USUARIO/](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9196708))
 - GitHub: [github.com/juan1cassimiroo1](https://github.com/juan1cassimiroo1)
 
 ---
