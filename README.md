@@ -11,7 +11,7 @@ Tenho boas habilidades de colaboração e comunicação, e busco sempre evoluir 
 
 📫 **Contato:**
 - E-mail: juan.cassimiro67@gmail.com
-- LinkedIn: [Juan Cassimiro]((https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9196708))
+- LinkedIn: [Juan Cassimiro](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9196708)
 - GitHub: [github.com/juan1cassimiroo1](https://github.com/juan1cassimiroo1)
 
 ---
