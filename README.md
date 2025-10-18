@@ -73,8 +73,6 @@ Você pode acessá-lo diretamente pelo link abaixo:
 Assista à explicação completa do repositório e dos projetos no YouTube:  
 👉 [Meu Portfólio no GitHub - Apresentação Completa](https://www.youtube.com/seu_video_aqui)
 
-*(Substitua o link acima pelo vídeo final da sua apresentação.)*
-
 ---
 
 ## ⚙️ Ferramentas e Tecnologias Utilizadas
