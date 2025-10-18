@@ -1,4 +1,4 @@
-# 💼 Portfólio de Projetos — Juan Cassimiro
+# 💼 Repositorio de Projetos — Juan Cassimiro
 
 Bem-vindo ao meu repositório!  
 Aqui estão reunidos **projetos acadêmicos e pessoais**, organizados para demonstrar minhas habilidades e evolução como desenvolvedor.
