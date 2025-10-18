@@ -20,8 +20,7 @@ Tenho boas habilidades de colaboração e comunicação, e busco sempre evoluir 
 
 ## 🧠 Planejamento do Repositório
 
-- Organização clara por tipo de projeto (acadêmico/pessoal).  
-- Versionamento contínuo com commits descritivos.  
+- Organização por tipo de projeto (acadêmico/pessoal).    
 - Aplicação das práticas de:
   - Criação de branches.
   - Pull requests e colaboração.
