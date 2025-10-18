@@ -12,7 +12,7 @@ Tenho boas habilidades de colaboração e comunicação, e busco sempre evoluir 
 
 ### 🔸 Seções principais:
 - **projetos-academicos/** → Contém projetos desenvolvidos durante o curso.  
-- **projetos-pessoais/** → Projetos criados por iniciativa própria.  
+- **projetos-exemplo/** → Projetos criados por iniciativa própria.  
 - **documentacao/** → Materiais de apoio e guias de estudo (ex: Git, HTML, CSS, etc).  
 - **README.md** → Documento principal com explicações gerais.
 
