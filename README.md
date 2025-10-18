@@ -64,7 +64,7 @@ Durante o desenvolvimento deste portfólio, foram aplicadas práticas reais de c
 Este portfólio também está vinculado ao meu perfil profissional no LinkedIn.  
 Você pode acessá-lo diretamente pelo link abaixo:
 
-🔗 **[Meu Perfil no LinkedIn](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9196708)**  
+🔗 **[Meu Perfil no LinkedIn]((https://www.linkedin.com/in/juan-cassimiro-401682284))**  
 
 ---
 
