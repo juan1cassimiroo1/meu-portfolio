@@ -6,28 +6,6 @@ O objetivo desta pasta é centralizar materiais que auxiliem na manutenção e e
 
 ---
 
-## 📂 Estrutura do Repositório
-
-A estrutura do portfólio foi organizada da seguinte forma:
-
-── projetos-academicos/ → Projetos desenvolvidos durante o curso
- ├── projeto1/
- └── projeto2/
-
-── projetos-pessoais/ → Projetos de iniciativa própria
- ├── projeto1/
- └── projeto2/
-
-── documentacao/ → Documentos, guias e anotações
- └── README.md
-
-  ── README.md → Descrição principal do portfólio
-
-  
-Essa estrutura facilita a navegação e garante que cada projeto esteja devidamente isolado e documentado.
-
----
-
 ## 🧠 Boas Práticas de Versionamento (Git)
 
 Durante o desenvolvimento, foram aplicadas boas práticas de versionamento utilizando o **Git**:
